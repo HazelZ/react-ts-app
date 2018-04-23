@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+<<<<<<< HEAD
     "react-scripts-ts": "2.15.1"
   },
   "scripts": {
@@ -21,3 +22,14 @@
     "typescript": "^2.8.3"
   }
 }
+=======
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
+>>>>>>> 780f8e67ff634d5ab469598a5b0112dca1cafffa
