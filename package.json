@@ -5,7 +5,6 @@
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-<<<<<<< HEAD
     "react-scripts-ts": "2.15.1"
   },
   "scripts": {
@@ -15,21 +14,13 @@
     "eject": "react-scripts-ts eject"
   },
   "devDependencies": {
+    "@types/enzyme": "^3.1.10",
     "@types/jest": "^22.2.3",
     "@types/node": "^9.6.6",
     "@types/react": "^16.3.12",
     "@types/react-dom": "^16.0.5",
+    "enzyme": "^3.3.0",
+    "react-addons-test-utils": "^15.6.2",
     "typescript": "^2.8.3"
   }
 }
-=======
-    "react-scripts": "1.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
-}
->>>>>>> 780f8e67ff634d5ab469598a5b0112dca1cafffa
